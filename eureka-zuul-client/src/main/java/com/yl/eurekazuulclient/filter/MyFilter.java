@@ -7,7 +7,7 @@ import org.springframework.stereotype.Component;
 import javax.servlet.http.HttpServletRequest;
 
 /**
- * @author Liang.Yang5
+ * @author Static
  * @date 2018/9/13 9:54
  */
 @Component
